@@ -1,10 +1,17 @@
 require(`dotenv`).config({
   path: `.env`,
-})
+});
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Kenny\'s blog`,
+    siteTitleAlt: `Kenny John Jacob`,
+    siteHeadline: "Kenny's blog",
+    siteUrl: "http://localhost:8000",
+    siteDescription: "This is an awesome blog about x y and z",
+    siteLanguage: "en",
+    siteImage: "/banner.png",
+    author: "Kenny John Jacob",
   },
   plugins: [
     {
@@ -24,19 +31,9 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
-          {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            url: `https://twitter.com/johnjacobkenny`,
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
       },
     },
     `gatsby-plugin-sitemap`,
@@ -67,4 +64,4 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
   ],
-}
+};
