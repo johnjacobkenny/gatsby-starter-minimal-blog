@@ -1,6 +1,7 @@
 {
   "filters": {},
   "rules": {
+    "no-todo": true,
     "no-start-duplicated-conjunction": true,
     "rousseau": {
       "showLevels": ["suggestion", "warning", "error"]
