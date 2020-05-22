@@ -1,6 +1,7 @@
 ---
 title: My thoughts about the changing workplace
 date: 2020-05-20
+banner: ./kenny-timmer-p1ACSxNQuEE-unsplash.jpg
 ---
 
 I don't think I need to introduce the villain of the story. Covid-19 has affected every aspect of our lives. Many of us all over the globe are uncertain about what the future holds.
