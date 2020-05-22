@@ -33,6 +33,10 @@ module.exports = {
             name: `Twitter`,
             url: `https://twitter.com/johnjacobkenny`,
           },
+          {
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/kennyjohnjacob/`,
+          },
         ],
       },
     },
