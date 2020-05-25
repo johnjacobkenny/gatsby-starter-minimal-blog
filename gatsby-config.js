@@ -62,7 +62,8 @@ module.exports = {
         matomoUrl: "https://matomo.kennyj.me/",
         siteUrl: "https://kennyj.me/",
       },
-    }`gatsby-plugin-offline`,
+    },
+    `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
   ],
 };
