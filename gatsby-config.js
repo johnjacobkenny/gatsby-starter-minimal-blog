@@ -55,7 +55,14 @@ module.exports = {
         include_favicon: false,
       },
     },
-    `gatsby-plugin-offline`,
+    {
+      resolve: "gatsby-plugin-matomo",
+      options: {
+        siteId: "1",
+        matomoUrl: "https://matomo.kennyj.me/",
+        siteUrl: "https://kennyj.me/",
+      },
+    }`gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
   ],
 };

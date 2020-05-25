@@ -17,13 +17,15 @@
     "lint": "npm run textlint:content",
     "textlint": "run-p textlint:content textlint:src",
     "textlint:content": "textlint content/**/*.mdx",
-    "textlint:src": "textlint src/**/*.mdx"
+    "textlint:src": "textlint src/**/*.mdx",
+    "write-good": "write-good content/**/*.mdx"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "^2.3.5",
     "gatsby": "^2.20.36",
     "gatsby-plugin-google-analytics": "^2.1.4",
     "gatsby-plugin-manifest": "^2.2.3",
+    "gatsby-plugin-matomo": "^0.8.3",
     "gatsby-plugin-netlify": "^2.1.3",
     "gatsby-plugin-offline": "^2.2.4",
     "gatsby-plugin-sitemap": "^2.2.19",
@@ -39,6 +41,7 @@
     "textlint-rule-no-start-duplicated-conjunction": "^2.0.2",
     "textlint-rule-no-todo": "^2.0.1",
     "textlint-rule-rousseau": "^1.4.6",
-    "textlint-rule-unexpanded-acronym": "^1.2.4"
+    "textlint-rule-unexpanded-acronym": "^1.2.4",
+    "write-good": "^1.0.2"
   }
 }
