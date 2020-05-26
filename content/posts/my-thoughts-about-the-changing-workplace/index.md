@@ -32,7 +32,7 @@ This means that you can live wherever you are and pay less or even nil rent. You
 
 #### 3. Companies are willing to invest more on technology
 
-In this situation of physical social distancing, we all rely on the internet to connect us. It has enabled us to kill time watching Netflix and Youtube. With no other option, we meet up on online platforms. Zoom is a great example of how an internet companies is in great demand.
+In this situation of physical social distancing, we all rely on the internet to connect us. It has enabled us to kill time watching Netflix and Youtube. With no other option, we meet up on online platforms. Zoom is a great example of how internet companies are in great demand.
 
 Now that everything is being done online, every company needs to make sure they have an online presence. This means that they will need to create better digital experiences for their clients, and also transition their existing offline businesses to be online. This creates greater demand for technology people.
 
