@@ -58,4 +58,4 @@ People who are focused on such work should try to upskill. It is not very diffic
 
 These thoughts are based on some of the content I've seen and read online as well as some common sense. Dear extroverts, I'm sorry we're all stuck at home.
 
-You can find me on Twitter - [@johnjacobkenny](https://twitter.com/johnjacobkenny)
+You can reach out to me on Twitter - [@johnjacobkenny](https://twitter.com/johnjacobkenny) or [subscribe to get notifications for new content](http://eepurl.com/g5wm65)
