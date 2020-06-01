@@ -62,7 +62,7 @@ Sometimes I remember other main points during this process and I include those i
 
 For me the main part of proofreading is to make sure grammar and spellings are correct. When I read through it again, if it feels like I didn't convey my thought correctly at any section, I rephrase it so the correct idea is conveyed.
 
-Then I find find relevant images from [unsplash](https://unsplash.com/). It is a free resource to find stunning images and I think you will agree that it enhances your reading experience. :)
+Then I find relevant images from [unsplash](https://unsplash.com/). It is a free resource to find stunning images and I think you will agree that it enhances your reading experience. :)
 
 ---
 
