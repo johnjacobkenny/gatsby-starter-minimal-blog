@@ -58,7 +58,7 @@ These "strangers" turn into friends, and last a lifetime. Overall, you **learn a
 
 When I was growing up, I was interested in tech, but didn't have much guidance. I was very shy and never got the courage to ask for help from anyone, or thing about my learning as a long term investment. So my pursuits were all random, and didn't amount to much.
 
-**The twitter community is GOLD**. It is what I wish I had when I was starting out. That is one of the reasons I try to help everyone starting out. I see the potential in everyone and it reminds me of young me. Use this community your advantage.
+**The twitter community is GOLD**. It is what I wish I had when I was starting out. That is one of the reasons I try to help everyone starting out. I see the potential in everyone and it reminds me of young me. Use this community to your advantage.
 
 ![Photo by Tim Marshall on Unsplash](./tim-marshall-cAtzHUz7Z8g-unsplash.jpg)
 
