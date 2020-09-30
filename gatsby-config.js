@@ -10,8 +10,11 @@ module.exports = {
     siteUrl: "https://kennyj.me/",
     siteDescription: "Kenny's personal blog",
     siteLanguage: "en",
-    siteImage: "/banner.png",
+    siteImage: "/kenny.png",
     author: "Kenny John Jacob",
+    social: {
+      twitter: "johnjacobkenny",
+    },
   },
   plugins: [
     {
@@ -53,14 +56,6 @@ module.exports = {
         display: `standalone`,
         icon: "static/kenny.png",
         include_favicon: false,
-      },
-    },
-    {
-      resolve: "gatsby-plugin-matomo",
-      options: {
-        siteId: "2",
-        matomoUrl: "https://matomo.kennyj.me/",
-        siteUrl: "https://kennyj.me/",
       },
     },
     `gatsby-plugin-offline`,
